@@ -24,7 +24,7 @@ A fun and interactive **Stone Paper Scissors** (also known as Rock Paper Scissor
 
 
 🙋‍♀️ About Me
-Hi! I'm Anwesha — a passionate web developer in training.
+Hi! I'm Anwesha Jha — a passionate web developer in training.
 
 I created this project as part of my frontend development journey to sharpen my skills by replicating real-world websites. I'm currently learning HTML, CSS, JavaScript, and moving into React and the MERN Stack. I enjoy challenging myself by building clones and interactive web apps.
 
