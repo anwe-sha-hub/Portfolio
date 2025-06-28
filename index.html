@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currency Convertor</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.boxicons.com/fonts/basic/boxicons.min.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <div class="circle circle-purple"> </div>
+    <div class="circle circle-blue"> </div>
+
+    <main class="Currency-Converter">
+        <h1 class="Currency-Converter-title">
+            Currency Conventor
+        </h1>
+         <input class="Currency-Converter-input" placeholder="0" type="number" id="inputSourceCurrency">
+
+<div class="Currency-Converter-select-group">
+    <section class="Currency-Converter-select">
+<img id="imageSourceCurrency" src="https://flagcdn.com/w640/us.png" >
+<select id="selectSourceCurrency">
+
+</select>
+    </section> 
+
+<button id="buttonSwap" class="Currency-Converter-swap-button">
+    <i class="bx bx-swap-horizontal"></i>
+</button>
+
+   <section class="Currency-Converter-select">
+<img id="imageTargetCurrency" src="https://flagcdn.com/w640/id.png" >
+<select id="selectTargetCurrency">
+    
+</select>
+    </section> 
+
+</div>
+
+<div class="Currency-Converter-exchange-rate">
+    <span   id="exchangeRateText" class="Currency-Converter-exchange-rate-text">
+    0 USD= 0 IDR
+    </span>
+</div>
+    <button id="buttonConvert"   class="Currency-Converter-convert-button">
+        Convert
+    </button>
+
+    </main>
+    <script src="script.js" type="module"></script>
+
+</body>
+
+</html>
