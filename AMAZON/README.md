@@ -37,5 +37,3 @@ I'm currently learning HTML, CSS, JavaScript, and moving into React and the MERN
 🌱 Currently learning Full Stack Web Dev
 
 🧠 Practicing DSA alongside frontend
-
-🔗 GitHub: anwe-sha-hub
