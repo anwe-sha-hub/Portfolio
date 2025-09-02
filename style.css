@@ -158,3 +158,12 @@ text-align:  center;
 color: gray;
 padding: 12px 12px;
 }
+
+@media screen and (max-width:2000){
+    body{
+        /* background-color: red; */
+    }
+    .firstSection{
+    flex-direction: column-reverse;
+}
+}
